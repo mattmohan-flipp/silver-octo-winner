@@ -2,4 +2,4 @@
 ignore = vendor/*
 
 [tools]
-linters = rubocop, jshint
+linters = rubocop, jshint, reek
