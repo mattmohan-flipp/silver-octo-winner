@@ -1,0 +1,2 @@
+[tools]
+linters = rubocop, jshint
