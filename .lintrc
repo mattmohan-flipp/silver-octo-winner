@@ -2,7 +2,7 @@
 ignore = vendor/*
 
 [tools]
-linters = rubocop, eslint, reek, sasslint
+linters = rubocop, eslint, reek, sasslint, brakeman
 
 [sasslint]
 config = .sass-lint.yml
